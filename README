@@ -1,0 +1,19 @@
+
+# Entregable 0
+Ejercicios combinando todas las herramientas que hemos aprendido como utilizar de manera separada, ahora de manera conjunta en un mismo problema.
+
+
+## Features
+
+- UNIX
+- GIT
+- Python
+- Docker file
+
+
+## Maggie Level
+
+    1. Usando Google Collab, crear un contebook que consuma la API de los Simpson y haga una consulta cada 30 segundos.
+    2. El código debe guardar cada quote en un CSV dentro de una carpeta con el nombre del personaje (Lista y Homer) y en un fichero que llamaremos General (todos).
+    3. Generar un fichero Docker que copie el codigo dentro del contenedor y se ejecute de manera autonoma. El Docker debe tener el código en una carpeta app.
+    4. El fichero Docker debe crear al menos las carpetas Lisa y Homer e inicialmente solo coger de ellos dos.
